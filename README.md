@@ -15,9 +15,9 @@ Tools: Jupyter Notebook, Git
 
 Clone the repository: git clone the repository
 
-Navigate to the project directory: cd scientific-data-analysis-platform
+Navigate to the project directory: cd scientific-data-analysis-platform (or whatever you name it)
 
-Install dependencies: pip install -r requirements.txt
+Install dependencies: matplotlib,seaborn,pandas,numPy
 
 Run the project: Open Assignment.ipynb in Jupyter Notebook and execute the cells.
 
