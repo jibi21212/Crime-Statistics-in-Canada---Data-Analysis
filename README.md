@@ -13,7 +13,7 @@ Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn
 Tools: Jupyter Notebook, Git
 How to Run the Project:
 
-Clone the repository: git clone https://github.com/jibi21212/scientific-data-analysis-platform.git
+Clone the repository: git clone the repository
 Navigate to the project directory: cd scientific-data-analysis-platform
 Install dependencies: pip install -r requirements.txt
 Run the project: Open Assignment.ipynb in Jupyter Notebook and execute the cells.
